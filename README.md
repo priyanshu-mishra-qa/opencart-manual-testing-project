@@ -2,7 +2,7 @@
 
 This repository contains a manual testing portfolio project for the OpenCart Demo Store e-commerce application. It demonstrates end-to-end testing, defect tracking, and requirement coverage for a real-world e-commerce workflow.
 
-##Project Details
+## Project Details
 
 Project Type: Portfolio Project
 
@@ -10,7 +10,7 @@ Application: OpenCart Demo Store (E-Commerce Web Application)
 
 Testing Type: Manual Functional Testing
 
-##Scope of Testing
+## Scope of Testing
 
 Registration
 
@@ -26,7 +26,7 @@ Cart
 
 Checkout
 
-##Test Artifacts Included
+## Test Artifacts Included
 File Name	Description
 OpenCart - Test Plan 1.0	Complete test plan including project overview, test scope, environment, and testing strategy.
 OpenCart - Test Scenarios & Test Cases 1.0	Detailed test scenarios and test cases for all modules, including preconditions, steps, and expected results.
@@ -35,7 +35,7 @@ OpenCart - Test Execution 1.0	Test case execution status with Pass/Fail/Blocked/
 OpenCart - Defect Log 1.0	Comprehensive bug/defect report with severity, priority, status, and screenshots.
 OpenCart - Test Summary Report 1.0	High-level summary of testing results, key defects, and recommendations.
 
-##Key Highlights
+## Key Highlights
 
 Total Test Cases: 99
 
